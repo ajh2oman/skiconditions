@@ -2458,7 +2458,7 @@ def write_final_json_file():
 # write_final_json_file()
 # scheduling the code to run every day at 6 am
 
-schedule.every().day.at("19:00").do(write_final_json_file)
+schedule.every().day.at("06:00").do(write_final_json_file)
 #schedule.every().day.at("12:00").do(write_final_json_file)
 # schedule.every(1).hour.do(write_final_json_file)
 
