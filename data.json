@@ -39,7 +39,7 @@
   {"BOLTON VALLEY": {"trails": "0", "lifts": "0", "depth": "0", "new snow": "0"}},
   {"BROMLEY": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
   {"BURKE": {"trails": 0, "lifts": 0}}, 
-  {"JAY PEAK": {"trails": 0, "lifts": 0, "depth": 15, "new snow": 0}}, 
+  {"JAY PEAK": {"trails": 20, "lifts": 0, "depth": 15, "new snow": 0}}, 
   {"KILLINGTON": {"trails": 14, "lifts": 1, "depth": 16, "new snow": 0}}, 
   {"MAD RIVER GLEN": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}}, 
   {"MAGIC MOUNTAIN": {"trails": 0, "lifts": 0, "new snow": 0}}, 
@@ -49,4 +49,4 @@
   {"SMUGGLERS NOTCH": {"trails": 0, "lifts": 0, "new snow": 0}}, 
   {"STOWE": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
   {"STRATTON": {"trails": 0, "lifts": 0, "depth": 0}},
-  {"SUGARBUSH": {"trails": 14, "lifts": 1, "depth": 0, "new snow": 0.0}}]
+  {"SUGARBUSH": {"trails": 14, "lifts": 0, "depth": 12, "new snow": 0.0}}]
