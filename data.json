@@ -9,7 +9,7 @@
   {"MOUNT ABRAM": {"trails": 0, "lifts": 0}}, 
   {"SADDLEBACK": {"lifts": 0, "trails": 0, "new snow": 0, "depth": 0}}, 
   {"PLEASANT MOUNTAIN": {"trails": 0, "lifts": 0, "new snow": 0}}, 
-  {"SUGARLOAF": {"trails": 73, "lifts": 1, "new snow": 0}}, 
+  {"SUGARLOAF": {"trails": 0, "lifts": 0, "new snow": 0}}, 
   {"SUNDAY RIVER": {"trails": 0, "lifts": 0, "new snow": 0}}, 
   {"BERKSHIRE EAST": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}},
   {"BOUSQUET": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}}, 
@@ -39,8 +39,8 @@
   {"BOLTON VALLEY": {"trails": "0", "lifts": "0", "depth": "0", "new snow": "0"}},
   {"BROMLEY": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
   {"BURKE": {"trails": 0, "lifts": 0}}, 
-  {"JAY PEAK": {"trails": 20, "lifts": 0, "depth": 15, "new snow": 0}}, 
-  {"KILLINGTON": {"trails": 14, "lifts": 1, "depth": 16, "new snow": 0}}, 
+  {"JAY PEAK": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
+  {"KILLINGTON": {"trails": 1, "lifts": 1, "depth": 10, "new snow": 0}}, 
   {"MAD RIVER GLEN": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}}, 
   {"MAGIC MOUNTAIN": {"trails": 0, "lifts": 0, "new snow": 0}}, 
   {"MIDDLEBURY SNOW BOWL": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}}, 
@@ -49,4 +49,4 @@
   {"SMUGGLERS NOTCH": {"trails": 0, "lifts": 0, "new snow": 0}}, 
   {"STOWE": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
   {"STRATTON": {"trails": 0, "lifts": 0, "depth": 0}},
-  {"SUGARBUSH": {"trails": 14, "lifts": 0, "depth": 12, "new snow": 0.0}}]
+  {"SUGARBUSH": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0.0}}]
