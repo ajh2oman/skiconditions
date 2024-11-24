@@ -9,7 +9,7 @@
   {"MOUNT ABRAM": {"trails": 0, "lifts": 0}}, 
   {"SADDLEBACK": {"lifts": 0, "trails": 0, "new snow": 0, "depth": 0}}, 
   {"PLEASANT MOUNTAIN": {"trails": 0, "lifts": 0, "new snow": 0}}, 
-  {"SUGARLOAF": {"trails": 0, "lifts": 0, "new snow": 3}}, 
+  {"SUGARLOAF": {"trails": 3, "lifts": 1, "new snow": 0}}, 
   {"SUNDAY RIVER": {"trails": 4, "lifts": 1, "new snow": 0}}, 
   {"BERKSHIRE EAST": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}},
   {"BOUSQUET": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}}, 
