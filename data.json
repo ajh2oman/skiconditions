@@ -45,8 +45,8 @@
   {"MAGIC MOUNTAIN": {"trails": 0, "lifts": 0, "new snow": 0}}, 
   {"MIDDLEBURY SNOW BOWL": {"lifts": 0, "trails": 0, "depth": "", "new snow": ""}}, 
   {"MOUNT SNOW": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
-  {"OKEMO": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
+  {"OKEMO": {"trails": 10, "lifts": 4, "depth": 0, "new snow": 0}}, 
   {"SMUGGLERS NOTCH": {"trails": 0, "lifts": 0, "new snow": 0}}, 
   {"STOWE": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0}}, 
-  {"STRATTON": {"trails": 0, "lifts": 0, "depth": 0}},
+  {"STRATTON": {"trails": 17, "lifts": 4, "depth": 0}},
   {"SUGARBUSH": {"trails": 0, "lifts": 0, "depth": 0, "new snow": 0.0}}]
