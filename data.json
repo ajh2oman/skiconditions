@@ -16,7 +16,7 @@
 {"CATAMOUNT": {"trails": 23, "lifts": 6, "depth": 6.0, "new snow": 0.0}},
 {"JIMINY PEAK": {"trails": 25, "lifts": 6, "depth": 15, "new snow": 2}},
 {"NASHOBA VALLEY": {"trails": 7, "lifts": 5, "depth": 30, "new snow": 1}},
-{"BRADFORD": {"trails": "0"}},
+{"BRADFORD": {"trails": "6"}},
 {"BUTTERNUT": {"trails": 14, "lifts": 9, "depth": 18, "new snow": 0}},
 {"SKI WARD": {"trails": "7", "lifts": "3", "depth": "24"}},
 {"WACHUSETT": {"trails": 19, "lifts": 7, "depth": 36, "new snow": 1}},
@@ -52,9 +52,9 @@
 {"BURKE": {"lifts": 3, "trails": 30, "new snow": 0}}, 
 {"BIG MOOSE MOUNTAIN": {"trails": 0, "lifts": 2, "depth": 0.0, "new snow": 0.0}},
 {"BLUE HILLS": {"trails": 16, "lifts": 4, "depth": 0.0, "new snow": 0.0}},
-{"SKI BRADFORD": {"trails": 0, "lifts": 0, "depth": 0.0, "new snow": 0.0}},
+{"SKI BRADFORD": {"trails": 6, "lifts": 5, "depth": 0.0, "new snow": 0.0}},
 {"GUNSTOCK": {"trails": 34, "lifts": 8, "depth": 24, "new snow": 0.0}},
 {"MCINTYRE": {"trails": 2, "lifts": 2}},
-{"TENNEY MOUNTAIN": {"trails": 0, "lifts": 0}},
+{"TENNEY MOUNTAIN": {"trails": 5, "lifts": 2}},
 {"PICO": {"trails": "51", "lifts": "5", "base depth": 15, "new snow": 3}},
-{"SASKADENA SIX": {"trails": 0, "lifts": 0, "base depth": 0, "new snow": 0}}]
+{"SASKADENA SIX": {"trails": 14, "lifts": 2, "base depth": 0, "new snow": 0}}]
