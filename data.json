@@ -355,7 +355,7 @@
         "SMUGGLERS NOTCH": {
             "trails": 40,
             "lifts": 5,
-            "new snow": 0,
+            "new snow": 3,
             "depth": 0
         }
     },
@@ -379,7 +379,7 @@
             "trails": 104,
             "lifts": 9,
             "depth": 24.0,
-            "new snow": 0.0
+            "new snow": 2
         }
     },
     {
@@ -423,7 +423,7 @@
             "trails": "56",
             "lifts": "4",
             "base depth": 15,
-            "new snow": 9
+            "new snow": 6
         }
     },
     {
