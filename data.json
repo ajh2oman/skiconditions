@@ -360,15 +360,15 @@
     },
     {
         "STOWE": {
-        "trails": 91,
-        "lifts": 8,
+        "trails": 115,
+        "lifts": 11,
         "depth": 22.0
         }
     },
     {
         "STRATTON": {
-            "trails": 115,
-            "lifts": 11,
+            "trails": 91,
+            "lifts": 8,
             "depth": 0
         }
     },
