@@ -86,13 +86,15 @@
     {
         "SUGARLOAF": {
             "trails": 106,
-            "lifts": 8
+            "lifts": 8,
+            "new snow": 7
         }
     },
     {
         "SUNDAY RIVER": {
             "trails": 109,
-            "lifts": 13
+            "lifts": 13,
+            "new snow": 5
         }
     },
     {
@@ -177,7 +179,7 @@
             "trails": 64,
             "lifts": 7,
             "depth": 28,
-            "new snow": 0
+            "new snow": 6
         }
     },
     {
@@ -185,14 +187,14 @@
             "trails": 53,
             "lifts": 7,
             "depth": 16,
-            "new snow": 2
+            "new snow": 6
         }
     },
     {
         "BLACK MOUNTAIN NH": {
             "trails": 24,
             "lifts": 3,
-            "new snow": ""
+            "new snow": 6
         }
     },
     {
@@ -200,7 +202,7 @@
             "trails": 66,
             "lifts": 5,
             "depth": "",
-            "new snow": ""
+            "new snow": 5
         }
     },
     {
@@ -208,7 +210,7 @@
             "trails": "49",
             "lifts": "4",
             "depth": "20",
-            "new snow": ""
+            "new snow": 6
         }
     },
     {
@@ -246,7 +248,7 @@
         "LOON": {
             "lifts": 9,
             "trails": 57,
-            "new snow": 0
+            "new snow": 5
         }
     },
     {
@@ -304,7 +306,7 @@
             "trails": 18,
             "lifts": 3,
             "depth": 12,
-            "new snow": 2
+            "new snow": 4
         }
     },
     {
@@ -326,7 +328,7 @@
             "trails": 35,
             "lifts": 4,
             "depth": 24,
-            "new snow": 0.0
+            "new snow": 6
         }
     },
     {
@@ -347,7 +349,8 @@
     {
         "KILLINGTON": {
             "lifts": 14,
-            "trails": 153
+            "trails": 153,
+            "new snow": 11
         }
     },
     {
@@ -361,7 +364,7 @@
         "MAGIC MOUNTAIN": {
             "trails": 32,
             "lifts": 3,
-            "new snow": 1
+            "new snow": 6
         }
     },
     {
@@ -375,7 +378,7 @@
             "trails": 75,
             "lifts": 8,
             "depth": 24,
-            "new snow": 3
+            "new snow": 6
         }
     },
     {
@@ -383,7 +386,7 @@
             "trails": 116,
             "lifts": 15,
             "depth": 0,
-            "new snow": 0
+            "new snow": 6
         }
     },
     {
@@ -404,7 +407,7 @@
         "SMUGGLERS NOTCH": {
             "trails": 63,
             "lifts": 6,
-            "new snow": 0,
+            "new snow": 6,
             "depth": 0
         }
     },
@@ -420,7 +423,8 @@
         "STRATTON": {
             "trails": 97,
             "lifts": 8,
-            "depth": 22.0
+            "depth": 22.0,
+            "new snow": 4.0
         }
     },
     {
@@ -428,7 +432,7 @@
             "trails": 110,
             "lifts": 12,
             "depth": 18.0,
-            "new snow": 2.0
+            "new snow": 6.0
         }
     }
 ]
