@@ -50,7 +50,15 @@
             "new snow": ""
         }
     },
-    {},
+    {
+"CAMDEN SNOW BOWL": {
+            "lifts": 0,
+            "trails": 0,
+            "depth": " 12",
+            "new snow": ""
+        }
+        
+    },
     {
         "LOST VALLEY": {
             "trails": "22",
