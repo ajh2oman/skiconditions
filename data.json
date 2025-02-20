@@ -180,13 +180,6 @@
             "new snow": 0
         }
     },
-    {
-        "BLACK MOUNTAIN NH": {
-            "trails": "68",
-            "lifts": "4",
-            "new snow": ""
-        }
-    },
      {
         "BRETTON WOODS": {
             "trails": "98",
@@ -194,6 +187,14 @@
             "new snow": ""
         }
     },
+    {
+        "BLACK MOUNTAIN NH": {
+            "trails": "68",
+            "lifts": "4",
+            "new snow": ""
+        }
+    },
+    
     {
         "CANNON MOUNTAIN": {
             "trails": 91,
