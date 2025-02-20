@@ -336,7 +336,13 @@
             "new snow": 0
         }
     },
-    null,
+     {
+        "KILLINGTON": {
+            "trails": 155,
+            "lifts": 16,
+            "new snow": 0
+        }
+    },
     {
         "MAD RIVER GLEN": {
             "trails": 60,
