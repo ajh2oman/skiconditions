@@ -2,13 +2,13 @@
     {
         "MOHAWK MOUNTAIN": {
             "trails": 27,
-            "lifts": 5
+            "lifts": 8
         }
     },
     {
         "MOUNT SOUTHINGTON": {
             "trails": 14,
-            "lifts": 7,
+            "lifts": 5,
             "depth": 24
         }
     },
@@ -23,7 +23,7 @@
             "trails": 17,
             "lifts": 5,
             "depth": 24,
-            "new snow": "0"
+            "new snow": "5"
         }
     },
     {
@@ -39,22 +39,22 @@
             "trails": 29,
             "lifts": 3,
             "depth": 23,
-            "new snow": 0.0
+            "new snow": 1.0
         }
     },
     {
         "BLACK MOUNTAIN ME": {
-            "lifts": 2,
-            "trails": 31,
+            "lifts": 0,
+            "trails": 0,
             "depth": " 12",
             "new snow": ""
         }
     },
     {
         "CAMDEN SNOW BOWL": {
-            "lifts": 2,
-            "trails": 11,
-            "depth": "15-18"
+            "lifts": 0,
+            "trails": 0,
+            "depth": 0
         }
     },
     {
@@ -71,34 +71,34 @@
     },
     {
         "PLEASANT MOUNTAIN": {
-            "lifts": 6,
-            "trails": 38
+            "lifts": 5,
+            "trails": 37
         }
     },
     {
         "SADDLEBACK": {
-            "lifts": 6,
-            "trails": 68,
-            "new snow": 0,
+            "lifts": 4,
+            "trails": 64,
+            "new snow": 3,
             "depth": 32
         }
     },
     {
         "SUGARLOAF": {
-            "trails": 147,
-            "lifts": 12
+            "trails": 149,
+            "lifts": 10
         }
     },
     {
         "SUNDAY RIVER": {
-            "trails": 142,
-            "lifts": 18
+            "trails": 136,
+            "lifts": 12
         }
     },
     {
         "BERKSHIRE EAST": {
             "trails": 31,
-            "lifts": 5,
+            "lifts": 3,
             "depth": "",
             "new snow": ""
         }
@@ -106,8 +106,8 @@
     {
         "BLUE HILLS": {
             "trails": 7,
-            "lifts": 3,
-            "depth": 0.0,
+            "lifts": 4,
+            "depth": 20,
             "new snow": 0.0
         }
     },
@@ -120,7 +120,7 @@
     {
         "CATAMOUNT": {
             "trails": 41,
-            "lifts": 7,
+            "lifts": 4,
             "depth": 24.0,
             "new snow": 0.0
         }
@@ -128,7 +128,7 @@
     {
         "JIMINY PEAK": {
             "trails": 43,
-            "lifts": 9,
+            "lifts": 5,
             "depth": 26,
             "new snow": 0
         }
@@ -144,7 +144,7 @@
     {
         "SKI BRADFORD": {
             "trails": 15,
-            "lifts": 9,
+            "lifts": 8,
             "depth": 0.0,
             "new snow": 0.0
         }
@@ -152,7 +152,7 @@
     {
         "BUTTERNUT": {
             "trails": 22,
-            "lifts": 9,
+            "lifts": 5,
             "depth": 22,
             "new snow": 0
         }
@@ -167,7 +167,7 @@
     {
         "WACHUSETT": {
             "trails": 27,
-            "lifts": 8,
+            "lifts": 6,
             "depth": 45,
             "new snow": 0
         }
@@ -191,30 +191,30 @@
     {
         "BLACK MOUNTAIN NH": {
             "trails": "68",
-            "lifts": "5",
+            "lifts": "3",
             "new snow": ""
         }
     },
     {
         "CANNON MOUNTAIN": {
             "trails": 94,
-            "lifts": 7,
+            "lifts": 5,
             "depth": "",
             "new snow": ""
         }
     },
     {
         "CRANMORE": {
-            "trails": "55",
-            "lifts": "7",
-            "depth": "32",
+            "trails": "54",
+            "lifts": "4",
+            "depth": "31",
             "new snow": ""
         }
     },
     {
         "CROTCHED": {
             "trails": 25,
-            "lifts": 5,
+            "lifts": 2,
             "depth": 28,
             "new snow": 0
         }
@@ -228,8 +228,8 @@
     },
     {
         "GUNSTOCK": {
-            "trails": 37,
-            "lifts": 7,
+            "trails": 47,
+            "lifts": 8,
             "depth": 30,
             "new snow": 0.0
         }
@@ -237,14 +237,14 @@
     {
         "KING PINE": {
             "trails": 17,
-            "lifts": 6,
+            "lifts": 4,
             "depth": 48,
             "new snow": 0
         }
     },
     {
         "LOON": {
-            "lifts": 12,
+            "lifts": 10,
             "trails": 72,
             "new snow": 0
         }
@@ -257,7 +257,7 @@
     },
     {
         "MOUNT SUNAPEE": {
-            "trails": 66,
+            "trails": 65,
             "lifts": 8,
             "depth": 0,
             "new snow": 0
@@ -282,58 +282,58 @@
     {
         "TENNEY MOUNTAIN": {
             "trails": 19,
-            "lifts": 2
+            "lifts": 1
         }
     },
     {
         "WATERVILLE VALLEY": {
             "trails": 62,
-            "lifts": 10,
+            "lifts": 6,
             "depth": 24,
             "new snow": 0
         }
     },
     {
         "WHALEBACK": {
-            "trails": "25",
-            "lifts": "4"
+            "trails": "21",
+            "lifts": "3"
         }
     },
     {
         "WILDCAT": {
-            "trails": 35,
+            "trails": 34,
             "lifts": 3,
             "depth": 40,
-            "new snow": 0
+            "new snow": 2
         }
     },
     {
         "YAWGOO VALLEY": {
             "trails": 14,
-            "lifts": 2
+            "lifts": 1
         }
     },
     {
         "BOLTON VALLEY": {
-            "trails": "67",
-            "lifts": "6",
+            "trails": "57",
+            "lifts": "5",
             "depth": "45",
-            "new snow": "3"
+            "new snow": "2"
         }
     },
     {
         "BROMLEY": {
             "trails": 47,
-            "lifts": 9,
+            "lifts": 3,
             "depth": 24,
-            "new snow": 0.0
+            "new snow": 1.0
         }
     },
     {
         "BURKE": {
             "lifts": 3,
             "trails": 55,
-            "new snow": 2
+            "new snow": 1
         }
     },
     {
@@ -341,47 +341,48 @@
             "trails": 81,
             "lifts": 9,
             "depth": 36,
-            "new snow": 0
+            "new snow": 3
         }
     },
     {
         "KILLINGTON": {
-            "lifts": 21,
-            "trails": 152
+            "lifts": 13,
+            "trails": 154,
+            "new snow": 3
         }
     },
     {
         "MAD RIVER GLEN": {
-            "trails": 60,
-            "lifts": 5,
+            "trails": 54,
+            "lifts": 3,
             "new snow": 0
         }
     },
     {
         "MAGIC MOUNTAIN": {
             "trails": 50,
-            "lifts": 5,
+            "lifts": 1,
             "new snow": 0
         }
     },
     {
         "MIDDLEBURY SNOW BOWL": {
-            "trails": 29,
-            "lifts": 4
+            "trails": 0,
+            "lifts": 0
         }
     },
     {
         "MOUNT SNOW": {
-            "trails": 79,
-            "lifts": 18,
+            "trails": 81,
+            "lifts": 9,
             "depth": 30,
             "new snow": 0
         }
     },
     {
         "OKEMO": {
-            "trails": 128,
-            "lifts": 21,
+            "trails": 129,
+            "lifts": 14,
             "depth": 0,
             "new snow": 0
         }
@@ -389,9 +390,9 @@
     {
         "PICO": {
             "trails": "58",
-            "lifts": "7",
+            "lifts": "4",
             "base depth": 33,
-            "new snow": 1
+            "new snow": 3
         }
     },
     {
@@ -402,33 +403,33 @@
     },
     {
         "SMUGGLERS NOTCH": {
-            "trails": 77,
-            "lifts": 8,
-            "new snow": 0,
-            "depth": 0
+            "trails": 76,
+            "lifts": 6,
+            "new snow": 2,
+            "depth": 24
         }
     },
     {
         "STOWE": {
-            "trails": 125,
-            "lifts": 12,
+            "trails": 126,
+            "lifts": 11,
             "depth": 45,
-            "new snow": 1
+            "new snow": 3
         }
     },
     {
         "STRATTON": {
-            "trails": 99,
-            "lifts": 14,
+            "trails": 98,
+            "lifts": 8,
             "depth": 30.0
         }
     },
     {
         "SUGARBUSH": {
             "trails": 111,
-            "lifts": 14,
+            "lifts": 12,
             "depth": 28.0,
-            "new snow": 0.0
+            "new snow": 1.0
         }
     }
 ]
