@@ -59,8 +59,8 @@
     },
     {
         "LOST VALLEY": {
-            "trails": "",
-            "lifts": ""
+            "trails": 0,
+            "lifts": 0
         }
     },
     {
@@ -190,8 +190,8 @@
     },
     {
         "BLACK MOUNTAIN NH": {
-            "trails": "",
-            "lifts": "",
+            "trails": 0,
+            "lifts": 0,
             "new snow": ""
         }
     },
