@@ -86,7 +86,8 @@
     {
         "SUGARLOAF": {
             "trails": 55,
-            "lifts": 10
+            "lifts": 10,
+            "new snow": 4
         }
     },
     {
@@ -341,7 +342,7 @@
             "trails": 73,
             "lifts": 9,
             "depth": 24,
-            "new snow": 0
+            "new snow": 4
         }
     },
     {
