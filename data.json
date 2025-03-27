@@ -79,14 +79,15 @@
         "SADDLEBACK": {
             "lifts": 4,
             "trails": 47,
-            "new snow": 0,
+            "new snow": 2,
             "depth": 32
         }
     },
     {
         "SUGARLOAF": {
             "trails": 78,
-            "lifts": 9
+            "lifts": 9,
+            "new snow": 2
         }
     },
     {
