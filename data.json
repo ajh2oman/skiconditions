@@ -77,22 +77,24 @@
     },
     {
         "SADDLEBACK": {
-            "lifts": 3,
-            "trails": 52,
-            "new snow": 2,
+            "lifts": 4,
+            "trails": 57,
+            "new snow": 4,
             "depth": 32
         }
     },
     {
         "SUGARLOAF": {
-            "trails": 87,
-            "lifts": 9
+            "trails": 88,
+            "lifts": 9,
+            "new snow": 3
         }
     },
     {
         "SUNDAY RIVER": {
-            "trails": 78,
-            "lifts": 6
+            "trails": 81,
+            "lifts": 6,
+            "new snow": 2
         }
     },
     {
@@ -195,15 +197,15 @@
         "BLACK MOUNTAIN NH": {
             "trails": "22",
             "lifts": "2",
-            "new snow": "3"
+            "new snow": "4"
         }
     },
     {
         "CANNON MOUNTAIN": {
-            "trails": 37,
+            "trails": 39,
             "lifts": 4,
             "depth": "",
-            "new snow": "1"
+            "new snow": "3"
         }
     },
     {
@@ -292,10 +294,10 @@
     },
     {
         "WATERVILLE VALLEY": {
-            "trails": 54,
-            "lifts": 4,
-            "depth": 12,
-            "new snow": 3
+            "trails": 0,
+            "lifts": 0,
+            "depth": 0,
+            "new snow": 0
         }
     },
     {
@@ -343,16 +345,17 @@
     },
     {
         "JAY PEAK": {
-            "trails": "81",
+            "trails": "75",
             "lifts": "9",
             "depth": "24",
-            "new snow": "1"
+            "new snow": "3"
         }
     },
     {
         "KILLINGTON": {
             "lifts": 11,
-            "trails": 107
+            "trails": 108,
+            "new snow": 1
         }
     },
     {
@@ -388,7 +391,7 @@
             "trails": 49,
             "lifts": 3,
             "depth": 0,
-            "new snow": 0
+            "new snow": 5
         }
     },
     {
@@ -418,7 +421,7 @@
             "trails": 76,
             "lifts": 3,
             "depth": 48,
-            "new snow": 1
+            "new snow": 2
         }
     },
     {
@@ -430,7 +433,7 @@
     },
     {
         "SUGARBUSH": {
-            "trails": 44,
+            "trails": 42,
             "lifts": 7,
             "depth": 24.0,
             "new snow": 1
