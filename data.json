@@ -77,24 +77,24 @@
     },
     {
         "SADDLEBACK": {
-            "lifts": 4,
+            "lifts": 0,
             "trails": 57,
-            "new snow": 4,
+            "new snow": 0,
             "depth": 32
         }
     },
     {
         "SUGARLOAF": {
-            "trails": 88,
-            "lifts": 9,
-            "new snow": 3
+            "trails": 29,
+            "lifts": 4,
+            "new snow": 0
         }
     },
     {
         "SUNDAY RIVER": {
-            "trails": 81,
-            "lifts": 6,
-            "new snow": 2
+            "trails": 42,
+            "lifts": 3,
+            "new snow": 0
         }
     },
     {
@@ -179,16 +179,16 @@
     },
     {
         "ATTITASH": {
-            "trails": 24,
-            "lifts": 2,
-            "depth": 12,
-            "new snow": 1
+            "trails": 0,
+            "lifts": 0,
+            "depth": 0,
+            "new snow": 0
         }
     },
     {
         "BRETTON WOODS": {
-            "trails": 9,
-            "lifts": 1,
+            "trails": 0,
+            "lifts": 0,
             "depth": 0,
             "new snow": 0
         }
@@ -196,16 +196,16 @@
     {
         "BLACK MOUNTAIN NH": {
             "trails": "22",
-            "lifts": "2",
+            "lifts": "0",
             "new snow": "4"
         }
     },
     {
         "CANNON MOUNTAIN": {
-            "trails": 39,
-            "lifts": 4,
-            "depth": "",
-            "new snow": "3"
+            "trails": 0,
+            "lifts": 0,
+            "depth": "0",
+            "new snow": "0"
         }
     },
     {
@@ -213,7 +213,7 @@
             "trails": "0",
             "lifts": "0",
             "depth": 0,
-            "new snow": ""
+            "new snow": "0"
         }
     },
     {
@@ -249,9 +249,9 @@
     },
     {
         "LOON": {
-            "lifts": 3,
-            "trails": 34,
-            "new snow": 1
+            "lifts": 1,
+            "trails": 27,
+            "new snow": 0
         }
     },
     {
@@ -322,10 +322,10 @@
     },
     {
         "BOLTON VALLEY": {
-            "trails": "33",
-            "lifts": "2",
-            "depth": "20",
-            "new snow": "1"
+            "trails": "0",
+            "lifts": "0",
+            "depth": "0",
+            "new snow": "0"
         }
     },
     {
@@ -345,17 +345,17 @@
     },
     {
         "JAY PEAK": {
-            "trails": "75",
-            "lifts": "9",
+            "trails": "47",
+            "lifts": "8",
             "depth": "24",
-            "new snow": "3"
+            "new snow": "9"
         }
     },
     {
         "KILLINGTON": {
-            "lifts": 11,
-            "trails": 108,
-            "new snow": 1
+            "lifts": 5,
+            "trails": 46,
+            "new snow": 4
         }
     },
     {
@@ -383,15 +383,15 @@
             "trails": 7,
             "lifts": 1,
             "depth": 24,
-            "new snow": 4
+            "new snow": 0
         }
     },
     {
         "OKEMO": {
-            "trails": 49,
-            "lifts": 3,
+            "trails": 0,
+            "lifts": 0,
             "depth": 0,
-            "new snow": 5
+            "new snow": 0
         }
     },
     {
@@ -410,33 +410,33 @@
     },
     {
         "SMUGGLERS NOTCH": {
-            "trails": 43,
-            "lifts": 2,
+            "trails": 0,
+            "lifts": 0,
             "new snow": 0,
             "depth": 0
         }
     },
     {
         "STOWE": {
-            "trails": 76,
+            "trails": 72,
             "lifts": 3,
             "depth": 48,
-            "new snow": 2
+            "new snow": 7
         }
     },
     {
         "STRATTON": {
-            "trails": 39,
-            "lifts": 2,
-            "depth": 16.0
+            "trails": 0,
+            "lifts": 0,
+            "depth": 0
         }
     },
     {
         "SUGARBUSH": {
-            "trails": 42,
-            "lifts": 7,
+            "trails": 27,
+            "lifts": 2,
             "depth": 24.0,
-            "new snow": 1
+            "new snow": 7
         }
     }
 ]
