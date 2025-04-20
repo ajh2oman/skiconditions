@@ -77,23 +77,23 @@
     },
     {
         "SADDLEBACK": {
-            "lifts": 0,
-            "trails": 57,
+            "lifts": 2,
+            "trails": 31,
             "new snow": 0,
             "depth": 32
         }
     },
     {
         "SUGARLOAF": {
-            "trails": 29,
-            "lifts": 4,
+            "trails": 50,
+            "lifts": 1,
             "new snow": 0
         }
     },
     {
         "SUNDAY RIVER": {
-            "trails": 42,
-            "lifts": 3,
+            "trails": 47,
+            "lifts": 2,
             "new snow": 0
         }
     },
@@ -195,9 +195,9 @@
     },
     {
         "BLACK MOUNTAIN NH": {
-            "trails": "22",
-            "lifts": "0",
-            "new snow": "4"
+            "trails": "16",
+            "lifts": "2",
+            "new snow": "0"
         }
     },
     {
@@ -250,7 +250,7 @@
     {
         "LOON": {
             "lifts": 1,
-            "trails": 27,
+            "trails": 24,
             "new snow": 0
         }
     },
@@ -345,10 +345,10 @@
     },
     {
         "JAY PEAK": {
-            "trails": "47",
-            "lifts": "8",
+            "trails": "65",
+            "lifts": "4",
             "depth": "24",
-            "new snow": "9"
+            "new snow": "0"
         }
     },
     {
@@ -380,7 +380,7 @@
     },
     {
         "MOUNT SNOW": {
-            "trails": 7,
+            "trails": 8,
             "lifts": 1,
             "depth": 24,
             "new snow": 0
@@ -418,10 +418,10 @@
     },
     {
         "STOWE": {
-            "trails": 72,
+            "trails": 33,
             "lifts": 3,
             "depth": 48,
-            "new snow": 7
+            "new snow": 0
         }
     },
     {
@@ -433,10 +433,10 @@
     },
     {
         "SUGARBUSH": {
-            "trails": 27,
+            "trails": 23,
             "lifts": 2,
             "depth": 24.0,
-            "new snow": 7
+            "new snow": 0
         }
     }
 ]
