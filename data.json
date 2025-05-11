@@ -345,16 +345,16 @@
     },
     {
         "JAY PEAK": {
-            "trails": "11",
+            "trails": "6",
             "lifts": "2",
-            "depth": "12",
+            "depth": "",
             "new snow": "0"
         }
     },
     {
         "KILLINGTON": {
             "lifts": 2,
-            "trails": 13,
+            "trails": 6,
             "new snow": 0
         }
     },
@@ -433,9 +433,9 @@
     },
     {
         "SUGARBUSH": {
-            "trails": 2,
-            "lifts": 1,
-            "depth": 8.0,
+            "trails": 0,
+            "lifts": 0,
+            "depth": 0,
             "new snow": 0
         }
     }
