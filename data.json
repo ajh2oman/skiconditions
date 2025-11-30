@@ -131,8 +131,8 @@
     },
     {
         "JIMINY PEAK": {
-            "trails": 6,
-            "lifts": 0,
+            "trails": 7,
+            "lifts": 2,
             "depth": 12,
             "new snow": 0
         }
@@ -163,15 +163,15 @@
     },
     {
         "SKI WARD": {
-            "trails": 0,
-            "lifts": 0,
+            "trails": 1,
+            "lifts": 1,
             "depth": 0,
             "new snow": 0
         }
     },
     {
         "WACHUSETT": {
-            "trails": 2,
+            "trails": 3,
             "lifts": 2,
             "depth": 0,
             "new snow": 0
@@ -187,10 +187,10 @@
     },
     {
         "BRETTON WOODS": {
-            "trails": 7,
+            "trails": 6,
             "lifts": 3,
             "depth": 8,
-            "new snow": 1
+            "new snow": 0
         }
     },
     {
@@ -205,7 +205,7 @@
             "trails": 9,
             "lifts": 2,
             "depth": "12",
-            "new snow": "1"
+            "new snow": "0"
         }
     },
     {
@@ -249,8 +249,8 @@
     },
     {
         "LOON": {
-            "lifts": 2,
-            "trails": 15,
+            "lifts": 3,
+            "trails": 19,
             "new snow": 0
         }
     },
@@ -294,8 +294,8 @@
     },
     {
         "WATERVILLE VALLEY": {
-            "trails": 0,
-            "lifts": 0,
+            "trails": 17,
+            "lifts": 3,
             "depth": 0,
             "new snow": 0
         }
@@ -323,7 +323,7 @@
     {
         "BOLTON VALLEY": {
             "trails": "3",
-            "lifts": "2",
+            "lifts": "3",
             "depth": "12",
             "new snow": "2"
         }
@@ -345,16 +345,16 @@
     },
     {
         "JAY PEAK": {
-            "trails": "23",
-            "lifts": "3",
+            "trails": "39",
+            "lifts": "4",
             "depth": "24",
-            "new snow": "4"
+            "new snow": "6"
         }
     },
     {
         "KILLINGTON": {
             "lifts": 4,
-            "trails": 20,
+            "trails": 29,
             "new snow": 0
         }
     },
@@ -380,15 +380,15 @@
     },
     {
         "MOUNT SNOW": {
-            "trails": 7,
-            "lifts": 2,
+            "trails": 6,
+            "lifts": 4,
             "depth": 10,
             "new snow": 0
         }
     },
     {
         "OKEMO": {
-            "trails": 12,
+            "trails": 14,
             "lifts": 4,
             "depth": 10,
             "new snow": 0
@@ -410,33 +410,33 @@
     },
     {
         "SMUGGLERS NOTCH": {
-            "trails": 4,
+            "trails": 12,
             "lifts": 1,
-            "new snow": 2,
+            "new snow": 0,
             "depth": 14
         }
     },
     {
         "STOWE": {
-            "trails": 25,
+            "trails": 39,
             "lifts": 6,
             "depth": 24,
-            "new snow": 3
+            "new snow": 0
         }
     },
     {
         "STRATTON": {
-            "trails": 11,
-            "lifts": 4,
+            "trails": 15,
+            "lifts": 5,
             "depth": 12
         }
     },
     {
         "SUGARBUSH": {
-            "trails": 7,
+            "trails": 12,
             "lifts": 2,
             "depth": 18,
-            "new snow": 0
+            "new snow": 1
         }
     }
 ]
