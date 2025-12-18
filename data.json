@@ -2,25 +2,25 @@
     {
         "MOHAWK MOUNTAIN": {
             "trails": 5,
-            "lifts": 4
+            "lifts": 5
         }
     },
     {
         "MOUNT SOUTHINGTON": {
-            "trails": 9,
+            "trails": 12,
             "lifts": 5,
             "depth": 0
         }
     },
     {
         "POWDER RIDGE": {
-            "trails": 9,
-            "lifts": 1
+            "trails": 0,
+            "lifts": 0
         }
     },
     {
         "SKI SUNDOWN": {
-            "trails": 11,
+            "trails": 0,
             "lifts": 0,
             "depth": 0,
             "new snow": 0
