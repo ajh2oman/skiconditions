@@ -58,7 +58,7 @@
   { "WATERVILLE VALLEY": { "trails": 48, "lifts": 9, "depth": "18-24", "new snow": 1 } },
   { "WHALEBACK": { "trails": 1, "lifts": 2, "depth": 0, "new snow": 0 } },
   { "WILDCAT": { "trails": 7, "lifts": 3, "depth": 12, "new snow": 0 } },
-  { "YAWGOO VALLEY": { "trails": 0.0, "lifts": 0.0 } },
+  { "YAWGOO VALLEY": { "trails": 5, "lifts": 3 } },
   { "BOLTON VALLEY": { "trails": "56", "lifts": "5", "depth": "20", "new snow": "2" } },
   { "BROMLEY": { "trails": 0, "lifts": 0, "depth": 0, "new snow": 0.0 } },
   { "BURKE": { "lifts": 4, "trails": 3, "snow_24h": "4" } },
