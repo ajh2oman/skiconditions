@@ -60,7 +60,7 @@
   { "WILDCAT": { "trails": 7, "lifts": 3, "depth": 12, "new snow": 0 } },
   { "YAWGOO VALLEY": { "trails": 5, "lifts": 3 } },
   { "BOLTON VALLEY": { "trails": "56", "lifts": "5", "depth": "20", "new snow": "2" } },
-  { "BROMLEY": { "trails": 0, "lifts": 0, "depth": 0, "new snow": 0.0 } },
+  { "BROMLEY": { "trails": 32, "lifts": 7, "depth": 0, "new snow": 6 } },
   { "BURKE": { "lifts": 4, "trails": 3, "snow_24h": "4" } },
   { "JAY PEAK": { "trails": 72, "lifts": 9, "depth": 18, "new snow": 0 } },
   { "KILLINGTON": { "trails": 111, "lifts": 17, "depth": 14, "new snow": 2 } },
