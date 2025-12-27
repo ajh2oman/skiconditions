@@ -9,7 +9,7 @@
   { "CAMDEN SNOW BOWL": { "lifts": "2", "trails": "4", "depth": "30" } },
   { "LOST VALLEY": { "trails": "17", "lifts": "3" } },
   { "MOUNT ABRAM": { "trails": 9, "lifts": 3, "new snow": 2 } },
-  { "PLEASANT MOUNTAIN": { "lifts": 0, "trails": 0 } },
+  { "PLEASANT MOUNTAIN": { "lifts": 6, "trails": 23 } },
   { "SADDLEBACK": { "lifts": 5, "trails": 36, "new snow": 0, "depth": 17 } },
   { "SUGARLOAF": { "trails": 58, "lifts": 10, "new snow": 0 } },
   { "SUNDAY RIVER": { "trails": 96, "lifts": 16, "new snow": 0 } },
