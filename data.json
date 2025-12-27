@@ -15,7 +15,7 @@
   { "SUNDAY RIVER": { "trails": 0, "lifts": 0, "new snow": 0 } },
   { "BERKSHIRE EAST": { "trails": 15, "lifts": 5, "depth": "", "new snow": "5" } },
   { "BLUE HILLS": { "trails": 3, "lifts": 3, "depth": 0.0, "new snow": 4 } },
-  { "BOUSQUET": { "lifts": 0, "trails": 7, "depth": 0, "new snow": 0 } },
+  { "BOUSQUET": { "lifts": 4, "trails": 7, "depth": 0, "new snow": 0 } },
 
   {
     "CATAMOUNT": {
@@ -36,9 +36,9 @@
   },
 
   { "NASHOBA VALLEY": { "trails": 10, "lifts": 7, "depth": 0, "new snow": 4 } },
-  { "SKI BRADFORD": { "trails": 6, "lifts": 5, "depth": 0, "new snow": 0 } },
+  { "SKI BRADFORD": { "trails": 6, "lifts": 5, "depth": 0, "new snow": 3 } },
   { "BUTTERNUT": { "trails": 13, "lifts": 8, "depth": 18, "new snow": 0 } },
-  { "SKI WARD": { "trails": "9", "lifts": "", "depth": "24" } },
+  { "SKI WARD": { "trails": "9", "lifts": "4", "depth": "24" } },
   { "WACHUSETT": { "trails": 24, "lifts": 7, "depth": 34, "new snow": 4 } },
   { "ATTITASH": { "trails": 35, "lifts": 6, "depth": 0, "new snow": 0 } },
   { "BRETTON WOODS": { "trails": 26, "lifts": 7, "new snow": 0 } },
