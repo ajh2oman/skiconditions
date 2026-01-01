@@ -44,6 +44,7 @@
   {"OKEMO": {"trails": 69, "lifts": 20, "depth": 12, "new snow": 6}},
   {"SMUGGLERS NOTCH": {"trails": 26, "lifts": 6, "new snow": 0, "snow depth": 0}},
   {"STRATTON": {"trails": 58, "lifts": 9, "depth": 20.0}},
+  {"STOWE": {"trails": 100, "lifts": 10, "depth": 12.0, "new snow": 6.0}}
   {"SUGARBUSH": {"trails": 71, "lifts": 11, "depth": 12.0, "new snow": 5.0}},
   {"LOON": {"lifts": 10, "trails": 53, "new snow": 0}},
   {"BIG MOOSE MOUNTAIN": {"trails": 0, "lifts": 2, "depth": 0.0, "new snow": 0.0}},
