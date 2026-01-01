@@ -7,7 +7,7 @@
   {"LOST VALLEY": {"trails": "19", "lifts": "4"}},
   {"MOUNT ABRAM": {"trails": 11, "lifts": 3, "new snow": 3}},
   {"SADDLEBACK": {"lifts": 5, "trails": 22, "new snow": 1, "depth": 17}},
-  [{"PLEASANT MOUNTAIN": {"lifts": 6, "trails": 27}}],
+  {"PLEASANT MOUNTAIN": {"lifts": 6, "trails": 27}},
   {"SUGARLOAF": {"trails": 52, "lifts": 11}},
   {"SUNDAY RIVER": {"trails": 79, "lifts": 13}},
   {"BERKSHIRE EAST": {"trails": 19, "lifts": 2, "depth": "", "new snow": "4"}},
