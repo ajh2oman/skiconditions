@@ -1,4 +1,4 @@
-{
+[
     {
     "MOHAWK MOUNTAIN": {"trails": 16, "lifts": 6, "new snow": 0, "depth": 0},
     "MOUNT SOUTHINGTON": {"trails": 14, "lifts": 7, "new snow": 0, "depth": 0},
@@ -54,5 +54,5 @@
     "GUNSTOCK": {"trails": 37, "lifts": 8, "new snow": 0, "depth": 8},
     "MCINTYRE": {"trails": 11, "lifts": 4, "new snow": 0, "depth": 0},
     "TENNEY MOUNTAIN": {"trails": 16, "lifts": 3, "new snow": 2, "depth": 0}
-}
-}
+    }
+]
