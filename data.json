@@ -47,7 +47,7 @@
   {"BURKE":{"trails":54,"lifts":5,"new snow":4,"depth":28}},
   {"JAY PEAK":{"trails":82,"lifts":9,"new snow":4,"depth":24}},
   {"KILLINGTON":{"trails":155,"lifts":19,"new snow":12,"depth":28}},
-  {"MAD RIVER GLEN":{"trails":60,"lifts":5,"new snow":8,"depth":0}},
+  {"MAD RIVER GLEN":{"trails":60,"lifts":5,"new snow":11,"depth":0}},
   {"MAGIC MOUNTAIN":{"trails":50,"lifts":5,"new snow":12,"depth":0}},
   {"MIDDLEBURY SNOW BOWL":{"trails":28,"lifts":4,"new snow":0,"depth":0}},
   {"MOUNT SNOW":{"trails":82,"lifts":18,"new snow":6,"depth":36}},
@@ -57,5 +57,5 @@
   {"SMUGGLERS NOTCH":{"trails":78,"lifts":8,"new snow":7,"depth":0}},
   {"STOWE":{"trails":123,"lifts":12,"new snow":7,"depth":48}},
   {"STRATTON":{"trails":95,"lifts":12,"new snow":10,"depth":26}},
-  {"SUGARBUSH":{"trails":111,"lifts":16,"new snow":7,"depth":18}}
+  {"SUGARBUSH":{"trails":111,"lifts":16,"new snow":11,"depth":18}}
 ]
