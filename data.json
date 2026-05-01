@@ -11,7 +11,7 @@
   {"MOUNT ABRAM":{"closed":true}},
   {"PLEASANT MOUNTAIN":{"closed":true}},
   {"SADDLEBACK":{"closed":true}},
-  {"SUGARLOAF":{"trails":30,"lifts":2,"new snow":0,"depth":18}},
+  {"SUGARLOAF":{"closed":true}},
   {"SUNDAY RIVER":{"closed":true}},
   {"BERKSHIRE EAST":{"closed":true}},
   {"BLUE HILLS":{"closed":true}},
@@ -26,7 +26,7 @@
   {"WACHUSETT":{"closed":true}},
   {"ATTITASH":{"closed":true}},
   {"BRETTON WOODS":{"closed":true}},
-  {"BLACK MOUNTAIN NH":{"trails":4,"lifts":1,"new snow":0,"depth":20}},
+  {"BLACK MOUNTAIN NH":{"trails":4,"lifts":2,"new snow":0,"depth":20}},
   {"CANNON MOUNTAIN":{"closed":true}},
   {"CRANMORE":{"closed":true}},
   {"CROTCHED":{"closed":true}},
@@ -46,7 +46,7 @@
   {"BOLTON VALLEY":{"closed":true}},
   {"BROMLEY":{"closed":true}},
   {"BURKE":{"closed":true}},
-  {"JAY PEAK":{"trails":23,"lifts":8,"new snow":0,"depth":16}},
+  {"JAY PEAK":{"trails":14,"lifts":4,"new snow":0,"depth":16}},
   {"KILLINGTON":{"trails":7,"lifts":1,"new snow":0,"depth":20}},
   {"MAD RIVER GLEN":{"closed":true}},
   {"MAGIC MOUNTAIN":{"closed":true}},
@@ -56,7 +56,7 @@
   {"PICO":{"closed":true}},
   {"SASKADENA SIX":{"closed":true}},
   {"SMUGGLERS NOTCH":{"closed":true}},
-  {"STOWE":{"trails":20,"lifts":1,"new snow":0,"depth":16}},
+  {"STOWE":{"closed":true}},
   {"STRATTON":{"closed":true}},
-  {"SUGARBUSH":{"trails":6,"lifts":1,"new snow":0,"depth":12}}
+  {"SUGARBUSH":{"trails":6,"lifts":0,"new snow":0,"depth":12}}
 ]
