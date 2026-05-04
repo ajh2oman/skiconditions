@@ -26,7 +26,7 @@
   {"WACHUSETT":{"closed":true}},
   {"ATTITASH":{"closed":true}},
   {"BRETTON WOODS":{"closed":true}},
-  {"BLACK MOUNTAIN NH":{"trails":5,"lifts":2,"new snow":0,"depth":20}},
+  {"BLACK MOUNTAIN NH":{"trails":5,"lifts":0,"new snow":0,"depth":20}},
   {"CANNON MOUNTAIN":{"closed":true}},
   {"CRANMORE":{"closed":true}},
   {"CROTCHED":{"closed":true}},
@@ -46,8 +46,8 @@
   {"BOLTON VALLEY":{"closed":true}},
   {"BROMLEY":{"closed":true}},
   {"BURKE":{"closed":true}},
-  {"JAY PEAK":{"trails":7,"lifts":4,"new snow":0,"depth":16}},
-  {"KILLINGTON":{"trails":7,"lifts":1,"new snow":0,"depth":20}},
+  {"JAY PEAK":{"trails":7,"lifts":0,"new snow":0,"depth":16}},
+  {"KILLINGTON":{"trails":7,"lifts":0,"new snow":0,"depth":20}},
   {"MAD RIVER GLEN":{"closed":true}},
   {"MAGIC MOUNTAIN":{"closed":true}},
   {"MIDDLEBURY SNOW BOWL":{"closed":true}},
@@ -58,5 +58,5 @@
   {"SMUGGLERS NOTCH":{"closed":true}},
   {"STOWE":{"closed":true}},
   {"STRATTON":{"closed":true}},
-  {"SUGARBUSH":{"trails":2,"lifts":1,"new snow":0,"depth":12}}
+  {"SUGARBUSH":{"closed":true}}
 ]
